@@ -1,4 +1,4 @@
-# TotalTwist
+# TotalTwist-Lite
 
 ## Overview
 **TotalTwist** is a Python tool for detecting typosquatting domains and classifying them using VirusTotal. It leverages the **DNSTwist** tool to identify potential typosquatting domains and analyze their associated IPs to detect malicious activity.
